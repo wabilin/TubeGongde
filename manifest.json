@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "TubeGongde",
+  "author": "wabilin",
+  "version": "0.0.1",
+
+  "description": "Tube Gongde Visualization",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://hrm.mayohr.com/ta/personal/checkin/checkinrecords/workrecords"],
+      "js": ["tube_gongde.js"]
+    }
+  ]
+}
