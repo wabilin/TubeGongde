@@ -1,8 +1,10 @@
 # Tube Gongde
 See your Gongde on Tube :)
 
+## Note
+This project is only for fun. Please don't be serious.
+
 ## Installation
-- For FireFox
 
 ## License (GPLv3)
     This program is free software: you can redistribute it and/or modify
