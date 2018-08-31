@@ -5,6 +5,7 @@ See your Gongde on Tube :)
 This project is only for fun. Please don't be serious.
 
 ## Installation
+https://addons.mozilla.org/zh-TW/firefox/addon/tubegongde/
 
 ## License (GPLv3)
     This program is free software: you can redistribute it and/or modify
